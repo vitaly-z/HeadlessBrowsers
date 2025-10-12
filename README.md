@@ -1,7 +1,7 @@
 Headless Browsers
 ================
 
-> ✨ Get long term memory across all your AI tools with [MemoryPlugin](https://www.memoryplugin.com) [sponsor]
+> ✨ Get long term memory across all your AI tools with [MemoryPlugin](https://www.memoryplugin.com/?ref=github-headlessbrowsers) [sponsor]
 
 ### A list of (almost) all headless web browsers in existence
 
