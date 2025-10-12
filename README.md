@@ -1,6 +1,8 @@
 Headless Browsers
 ================
 
+> ✨ Get long term memory across all your AI tools with [MemoryPlugin](https://www.memoryplugin.com) [sponsor]
+
 ### A list of (almost) all headless web browsers in existence
 
 *A web browser without a graphical user interface, controlled programmatically. Used for automation, testing, and other purposes.*
